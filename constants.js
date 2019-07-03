@@ -1,0 +1,1 @@
+export const API = 'http://api.icndb.com/jokes/random/';
